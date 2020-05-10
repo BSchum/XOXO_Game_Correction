@@ -1,0 +1,11 @@
+C:\Users\Brice\source\repos\XOXO-Game-Correction\XOXO-Game-Correction\bin\Debug\netcoreapp3.1\XOXO-Game-Correction.exe
+C:\Users\Brice\source\repos\XOXO-Game-Correction\XOXO-Game-Correction\bin\Debug\netcoreapp3.1\XOXO-Game-Correction.deps.json
+C:\Users\Brice\source\repos\XOXO-Game-Correction\XOXO-Game-Correction\bin\Debug\netcoreapp3.1\XOXO-Game-Correction.runtimeconfig.json
+C:\Users\Brice\source\repos\XOXO-Game-Correction\XOXO-Game-Correction\bin\Debug\netcoreapp3.1\XOXO-Game-Correction.runtimeconfig.dev.json
+C:\Users\Brice\source\repos\XOXO-Game-Correction\XOXO-Game-Correction\bin\Debug\netcoreapp3.1\XOXO-Game-Correction.dll
+C:\Users\Brice\source\repos\XOXO-Game-Correction\XOXO-Game-Correction\bin\Debug\netcoreapp3.1\XOXO-Game-Correction.pdb
+C:\Users\Brice\source\repos\XOXO-Game-Correction\XOXO-Game-Correction\obj\Debug\netcoreapp3.1\XOXO-Game-Correction.csprojAssemblyReference.cache
+C:\Users\Brice\source\repos\XOXO-Game-Correction\XOXO-Game-Correction\obj\Debug\netcoreapp3.1\XOXO-Game-Correction.AssemblyInfoInputs.cache
+C:\Users\Brice\source\repos\XOXO-Game-Correction\XOXO-Game-Correction\obj\Debug\netcoreapp3.1\XOXO-Game-Correction.AssemblyInfo.cs
+C:\Users\Brice\source\repos\XOXO-Game-Correction\XOXO-Game-Correction\obj\Debug\netcoreapp3.1\XOXO-Game-Correction.dll
+C:\Users\Brice\source\repos\XOXO-Game-Correction\XOXO-Game-Correction\obj\Debug\netcoreapp3.1\XOXO-Game-Correction.pdb
